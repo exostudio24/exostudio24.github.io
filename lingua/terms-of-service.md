@@ -1,7 +1,7 @@
 # Terms of Service — Lingua
 
-**Effective date:** September 12, 2026
-**Last updated:** September 12, 2026
+**Effective date:** October 3, 2026
+**Last updated:** October 3, 2026
 
 These Terms of Service ("Terms") are between you and **CÔNG TY TNHH EXO TECHNOLOGY GLOBAL** ("EXO," "we," "us," or "our"), enterprise code **0110790544**, at Nhà vườn số 04 Khu thấp tầng Licogi 13, Số 164 Đường Khuất Duy Tiến, Phường Thanh Xuân, Thành phố Hà Nội, Việt Nam. Contact: **hello@exo.ltd**.
 
@@ -21,11 +21,13 @@ EXO grants you a limited, non-exclusive, non-transferable, non-sublicensable, re
 
 You may not sell, sublicense, distribute, reverse engineer, modify, exploit, automate, introduce malicious code, interfere with the app, manipulate progress or rewards, or attempt unauthorized access, except where a restriction is prohibited by law.
 
-## 5. Progress, XP, and availability
+## 5. Progress, XP, availability, and advertising
 
 XP, levels, streaks, lesson completion, and other progress indicators are motivational features. They have no cash value, are not transferable, and create no ownership rights. Local progress may be lost if you reset the app, clear its storage, uninstall it, replace a device, or experience software or storage failure.
 
-The current version works offline, has no account or cloud sync, and offers no paid products or subscriptions. We may update, improve, suspend, or discontinue parts of the app subject to applicable law.
+Lessons work offline. Lingua has no account or cloud sync and offers no paid products or subscriptions. We may update, improve, suspend, or discontinue parts of the app subject to applicable law.
+
+Lingua is free and supported by advertising. When your device is online, the app shows ads served by Google AdMob and uses analytics, crash-reporting, remote-configuration, and advertising-measurement services from Google (Firebase), Yandex (AppMetrica), Meta, and TikTok, as described in our [Privacy Policy](./privacy-policy.html). Ads are provided by third parties; EXO does not endorse advertised products and is not responsible for third-party websites or offers you open from an ad. You may manage ad consent from the app's privacy options where available and personalized ads from your Android settings.
 
 ## 6. Intellectual property
 

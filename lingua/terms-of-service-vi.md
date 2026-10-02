@@ -1,7 +1,7 @@
 # Điều khoản sử dụng — Lingua
 
-**Ngày hiệu lực:** 12/09/2026
-**Cập nhật lần cuối:** 12/09/2026
+**Ngày hiệu lực:** 03/10/2026
+**Cập nhật lần cuối:** 03/10/2026
 
 Điều khoản sử dụng này ("Điều khoản") là thỏa thuận giữa bạn và **CÔNG TY TNHH EXO TECHNOLOGY GLOBAL** ("EXO", "chúng tôi"), mã số doanh nghiệp **0110790544**, địa chỉ Nhà vườn số 04 Khu thấp tầng Licogi 13, Số 164 Đường Khuất Duy Tiến, Phường Thanh Xuân, Thành phố Hà Nội, Việt Nam. Liên hệ: **hello@exo.ltd**.
 
@@ -21,11 +21,13 @@ EXO cấp cho bạn giấy phép có giới hạn, không độc quyền, không
 
 Bạn không được bán, cấp phép lại, phân phối, dịch ngược, sửa đổi, khai thác, tự động hóa, đưa mã độc vào, can thiệp ứng dụng, thao túng tiến độ hoặc phần thưởng hay cố truy cập trái phép, trừ trường hợp pháp luật không cho phép hạn chế đó.
 
-## 5. Tiến độ, XP và khả dụng
+## 5. Tiến độ, XP, khả dụng và quảng cáo
 
 XP, cấp độ, chuỗi ngày học, trạng thái hoàn thành và các chỉ số tiến độ chỉ có mục đích tạo động lực; không có giá trị tiền mặt, không thể chuyển nhượng và không tạo quyền sở hữu. Tiến độ cục bộ có thể mất khi bạn đặt lại ứng dụng, xóa bộ nhớ, gỡ cài đặt, đổi thiết bị hoặc gặp lỗi phần mềm/bộ nhớ.
 
-Phiên bản hiện tại hoạt động ngoại tuyến, không có tài khoản hoặc đồng bộ đám mây và không cung cấp sản phẩm trả phí hoặc thuê bao. Chúng tôi có thể cập nhật, cải tiến, tạm dừng hoặc chấm dứt một phần ứng dụng theo pháp luật áp dụng.
+Bài học hoạt động ngoại tuyến. Lingua không có tài khoản hoặc đồng bộ đám mây và không cung cấp sản phẩm trả phí hoặc thuê bao. Chúng tôi có thể cập nhật, cải tiến, tạm dừng hoặc chấm dứt một phần ứng dụng theo pháp luật áp dụng.
+
+Lingua miễn phí nhờ quảng cáo. Khi thiết bị có kết nối mạng, ứng dụng hiển thị quảng cáo do Google AdMob phân phối và dùng các dịch vụ phân tích, báo cáo sự cố, cấu hình từ xa và đo lường quảng cáo của Google (Firebase), Yandex (AppMetrica), Meta và TikTok như mô tả trong [Chính sách quyền riêng tư](./privacy-policy-vi.html). Quảng cáo do bên thứ ba cung cấp; EXO không bảo chứng cho sản phẩm được quảng cáo và không chịu trách nhiệm về trang web hoặc ưu đãi của bên thứ ba mà bạn mở từ quảng cáo. Bạn có thể quản lý sự đồng ý quảng cáo trong tùy chọn quyền riêng tư của ứng dụng (khi có) và quảng cáo cá nhân hóa trong cài đặt Android.
 
 ## 6. Quyền sở hữu trí tuệ
 
